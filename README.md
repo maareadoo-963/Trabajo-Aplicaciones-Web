@@ -1,2 +1,3 @@
-# Trabajo-Aplicaciones-Web
-Prueba III: Diseño web - Gestión de Archivos web - Aplicaciones web de escritorio
+# Jornada Tecnológica 2025
+
+Proyecto de página web para la Jornada Tecnológica 2025.
