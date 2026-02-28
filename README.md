@@ -52,3 +52,5 @@ Las capturas están en la carpeta [`CAPTURAS`](./CAPTURAS):
 - `web-final.png`
 - `thunderbird.png`
 - `configuracion-correo.png`
+- `GitHubDesktop`
+- `GitHubDesktop-2`
